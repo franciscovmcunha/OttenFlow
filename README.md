@@ -1,8 +1,8 @@
-# Ottenflow
+# OttenFlow
 
-**Ottenflow is an operational intelligence layer for independent hotels.**
+**Operational intelligence layer for independent hotels.**
 
-It enables hotels to transform fragmented operational signals into **actions that improve revenue, guest experience, and operational efficiency**.
+OttenFlow transforms fragmented guest communication and operational data into **structured actions that generate revenue, improve guest experience, and reduce operational friction.**
 
 ---
 
@@ -10,114 +10,151 @@ It enables hotels to transform fragmented operational signals into **actions tha
 
 Independent hotels operate in a fragmented environment:
 
-* Guest communication is spread across multiple channels
-* Reservations come from different platforms with limited control
-* There is no structured memory of guest interactions
-* Revenue opportunities are often missed
-* Cash flow is constrained by OTA dynamics
+- Guest communication is scattered across WhatsApp, email, OTAs, and calls  
+- Reservations come from multiple platforms with limited control  
+- There is no structured memory of guest interactions  
+- Opportunities for direct bookings are missed  
+- Operations are reactive instead of proactive  
 
-As a result, hotels operate reactively instead of proactively.
+As a result:
+
+- Revenue is lost to intermediaries  
+- Staff time is wasted  
+- Guest experience becomes inconsistent  
 
 ---
 
-## ⚙️ What Ottenflow Does
+## ⚙️ What OttenFlow Does
 
-Ottenflow acts as a layer on top of existing operations.
+OttenFlow sits on top of existing hotel operations and acts as an **execution layer**.
 
 It continuously:
 
-1. Captures operational signals
-2. Structures them into usable context
-3. Identifies opportunities and risks
-4. Executes actions automatically or with minimal input
+1. **Captures operational signals**  
+   (reservations, messages, guest interactions)
+
+2. **Structures them into context**  
+   (who the guest is, what they need, when to act)
+
+3. **Triggers actions**  
+   (messages, follow-ups, offers, coordination)
+
+4. **Executes or assists execution**  
+   (communication, concierge, revenue activation)
 
 ---
 
-## 🧩 Core Capabilities
+## 💬 Guest Experience Layer
 
-### 📩 Guest Experience Layer
+OttenFlow creates a structured communication flow with guests:
 
-* Structured guest communication before, during, and after the stay
-* Continuous interaction tracking
-* Operational visibility over guest needs
+- Pre-check-in communication  
+- Stay support (requests, coordination)  
+- Post-stay engagement  
 
----
-
-### 💸 Revenue Activation
-
-* Direct engagement with past guests
-* Identification of rebooking opportunities
-* Activation of additional revenue streams (e.g. services, experiences)
+Every interaction is tracked and becomes part of the guest's operational memory.
 
 ---
 
-### 🧠 Operational Intelligence
+## 💸 Revenue Activation
 
-* Detection of operational gaps and opportunities
-* Contextual understanding of guest behavior
-* Continuous improvement through accumulated data
+OttenFlow actively generates revenue by:
+
+- Re-engaging past guests  
+- Converting OTA guests into direct bookings  
+- Activating upsells (e.g. transfers, experiences)  
+- Identifying high-value opportunities  
+
+It turns guest data into **bookings and cash flow**.
 
 ---
 
-### 🔗 Supply Integration (early stage)
+## 🧠 Operational Intelligence
 
-* Connection between guest needs and local services
-* Ability to operationalize upsells and partnerships
+OttenFlow provides continuous operational awareness:
+
+- Who should be contacted  
+- What action should be taken  
+- Where revenue is being lost  
+- Which guests are most valuable  
+
+It enables hotels to operate with **context instead of guesswork**.
+
+---
+
+## 🔗 Supply Layer (Early Stage)
+
+OttenFlow connects guest needs with local services:
+
+- Transfers  
+- Experiences  
+- External providers  
+
+This enables hotels to **capture additional revenue streams** without increasing complexity.
 
 ---
 
 ## 📈 Business Impact
 
-Ottenflow is designed to:
+OttenFlow is designed to:
 
-* Increase direct revenue
-* Improve cash flow predictability
-* Reduce dependency on external platforms
-* Enhance guest satisfaction
-* Reduce operational workload
+- Increase direct bookings  
+- Reduce dependency on OTAs  
+- Improve cash flow predictability  
+- Enhance guest satisfaction  
+- Reduce operational workload  
 
 ---
 
-## 🧭 How to Think About Ottenflow
+## 🧭 What OttenFlow Is (and Isn’t)
 
-Ottenflow is not:
+### OttenFlow is NOT:
+- a PMS  
+- a chatbot  
+- a reporting dashboard  
 
-* a PMS
-* a chatbot
-* a reporting dashboard
-
-Ottenflow is:
-
-> **a decision and execution layer for hospitality operations**
+### OttenFlow IS:
+- a **decision and execution layer for hotel operations**  
+- a **revenue engine built on top of guest data**  
 
 ---
 
 ## 🚀 Current Stage
 
-Ottenflow is being validated in a real hotel environment, focusing on:
+OttenFlow is currently being validated in a real hotel environment, focusing on:
 
-* revenue generation
-* guest engagement
-* operational efficiency
+- revenue generation  
+- guest engagement  
+- operational efficiency  
+
+The goal is to prove:
+
+> data → action → conversation → booking → revenue
 
 ---
 
 ## 🔮 Vision
 
-Ottenflow evolves into:
+OttenFlow evolves into:
 
-> **the operating system for independent hospitality — connecting data, decisions, and execution in a single layer**
+> **The operating system for independent hospitality — connecting data, decisions, and execution in a single layer.**
 
 ---
 
 ## 📄 Notes
 
-This repository focuses on the **product vision and system architecture**.
+This repository focuses on:
 
-The execution layer is developed and validated separately.
+- product vision  
+- system architecture  
+- conceptual design  
+
+The execution layer (data pipelines, automation, integrations) is developed and validated separately.
 
 ---
 
-## 📄 License
+## 📬 Contact
 
-MIT License
+For early access or collaboration:
+
+**info@ottenflow.com**
